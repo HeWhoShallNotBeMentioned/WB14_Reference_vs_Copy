@@ -6,7 +6,8 @@
 
 ## Description
 
-_{An application with example of when objects and arrays are reference connected and when they are unconnected copies. Examples are given of how to do both. }_
+_{An application with example of when objects and arrays are reference connected and when they are unconnected copies. Examples are given of how to do both. By default, arrays make copies and objects are reference objects.
+}_
 
 ## Setup/Installation Requirements
 
